@@ -60,3 +60,10 @@ The repository includes:
 ## License
 
 This project is created for educational and portfolio purposes.
+
+## **Author**
+**Vaibhav Vijay Yande**
+
+Master's in Industry 4.0 – Automation, Robotics & 3D Manufacturing
+
+Mechanical Design | CAD Modeling | Robotics | Automation
